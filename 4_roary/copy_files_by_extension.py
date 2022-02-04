@@ -1,6 +1,9 @@
 import shutil
 import os
 
+#Este archivo recorre todas las subcarpetas contenidas en la carpeta (path), y copia los archivos de la extensión requerida.
+
+
 path = "./prokka_output"
 list_of_folders = os.listdir(path)
 #.gff para roary, .faa para GET_HOMOLOGUES

@@ -1,6 +1,5 @@
 import pandas as pd
 import os
-import subprocess
 #['pair#', 'orthoANI_value', 'avg_aligned_length', 'query_coverage', 'subject_coverage', 'query_length', 'subject_length\n']
 
 folder_path = "./output"

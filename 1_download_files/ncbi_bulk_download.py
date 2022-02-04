@@ -2,6 +2,12 @@
 Created on Sat Sept 4 11:41:25 2021
 
 @author: agustinwagner
+
+Este script se ejecuta desde la consola, requiere dos flags, ejemplo:
+
+python ncbi_bulk_download.py -i file.csv -t genomic.fna.gz
+
+Funciona con los .csv que se pueden descargar desde la página de NCBI.
 """
 
 #Importo las librerías
@@ -40,15 +46,18 @@ for link in genBank_links:
     type_of_data = args.type.split(".")[0]
     unzipped_extension = args.type.split(".")[1]
     unzipped_name = id+"_"+type_of_data+"."+unzipped_extension
+
     print("Downloading from " + http_link + "/" + id + "_"  + args.type)
     with urllib3.PoolManager() as http:
         r = http.request('GET', http_link + "/" + id + "_"  + args.type)
         with open(fileName, 'wb') as fout:
             fout.write(r.data)
+
     with gzip.open(fileName, 'rb') as f_in:
         print("Unzipping as " + unzipped_name)
         with open(unzipped_name, 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
+            
     source = unzipped_name
     destination = type_of_data
     new_path = shutil.move(source, destination)

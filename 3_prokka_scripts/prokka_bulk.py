@@ -4,6 +4,8 @@ Created on Fri Aug 20 21:41:49 2021
 @author: agustinwagner
 
 cd /media/agustinwagner/44743DB9743DAE94/Tesis/archivos\ fasta/
+
+Este script permite ejecutar prokka en bulk de forma automática.
 """
 
 import subprocess

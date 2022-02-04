@@ -5,7 +5,7 @@ df = pd.read_csv("gene_presence_absence.csv",low_memory=False)
 
 hypotheticals = df[(df["Annotation"] == "hypothetical protein")]
 
-# Data structure to use a O(n) algorithm and avoid a O(n^2) algorithm.
+# Data structure to use an O(n) algorithm (and avoid a O(n^2) algorithm).
 hash_table = {}
 
 for index, row in hypotheticals.iterrows():

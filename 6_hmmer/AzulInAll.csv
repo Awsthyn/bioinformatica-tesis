@@ -1,0 +1,67 @@
+E-value,score,bias,Sequence,start,end,Description
+0,1374.8,71.8,fiG|6666666.91855.peG.875,1,1332,
+0,1328.7,70.6,LJIC01000015.1,102516,101173,Rhodopseudomonas sp. AAP120 AAP120_Contigs_ 
+2.9e-269,900.1,99.8,NZ_FODT01000007.1,188636,187338,Rhodopseudomonas pseudopalustris strain DSM 
+8.4e-269,898.5,98.9,Ga0065533_11,1789175,1787877,
+5.8e-265,885.9,58.3,QYYD01000008.1,192922,194219,Rhodopseudomonas palustris strain 2.1.18 NO 
+1.6e-261,874.5,113.2,CP000250.1,1786186,1784884,"Rhodopseudomonas palustris HaA2, complete g "
+5.2e-250,836.4,97.6,LJIC01000167.1,2945,4244,Rhodopseudomonas sp. AAP120 AAP120_Contigs_ 
+3.4e-249,833.7,97.5,BADD01000182.1,12365,13660,"Rhodopseudomonas sp. B29 DNA, contig: IB029 "
+4.7e-249,833.2,97.2,JXXE01000507.1,7312,6012,Rhodopseudomonas palustris strain BAL398 c6 
+9.6e-247,825.6,91.1,JACABA010000008.1,28282,29594,MAG: Rhodopseudomonas sp. isolate Cfx3-05 M 
+3.6e-244,817.1,92.6,CP019966.1,4413292,4414589,Rhodopseudomonas palustris strain PS3 chrom 
+2.8e-242,810.8,102.3,fiG|6666666.91855.peG.3601,2,1270,
+1.5e-241,808.4,92.6,CP019967.1,4449068,4450365,Rhodopseudomonas palustris strain YSC3 chro 
+1.9e-240,804.8,109.5,NZ_JACHIH010000008.1,75046,73745,Rhodopseudomonas rhenobacensis strain DSM 1 
+2.8e-240,804.2,106.4,QKQS01000038.1,265158,266455,Rhodopseudomonas palustris strain XCP PROK_ 
+4.5e-238,796.9,92.7,QUML01000003.1,192774,191477,Rhodopseudomonas sp. BR0G17 NODE_3_length_2 
+3.7e-237,793.9,103.3,BX571963.1,4547580,4548877,Rhodopseudomonas palustris CGA009 complete 
+3.7e-237,793.9,103.3,QYYC01000046.1,215487,216784,Rhodopseudomonas palustris strain 2.1.37 sc 
+8e-237,792.8,100.3,QRDT01000005.1,115677,114380,Rhodopseudomonas pentothenatexigens strain 
+3.2e-236,790.8,91.7,KI632513.1,91905,90608,Rhodopseudomonas palustris JSC-3b genomic s 
+4.8e-236,790.2,92.3,Ga0065639_11,4617665,4618963,
+7.3e-236,789.6,104.8,CP001096.1,4899887,4901184,Rhodopseudomonas palustris TIE-1 chromosome 
+9.1e-236,789.3,85.0,NZ_QJTI01000031.1,1656,359,Rhodopseudomonas faecalis strain JCM 11668 
+2.1e-234,784.8,101.3,CP041387.1,3395351,3396648,Rhodopseudomonas palustris strain GJ-22 chr 
+1.2e-233,782.2,99.6,QUMK01000013.1,73822,72525,Rhodopseudomonas sp. BR0M22 NODE_13_length_ 
+4.4e-233,780.4,99.9,QPFS01000082.1,19711,21009,Rhodopseudomonas sp. WA056 NODE_82_length_2 
+8.9e-233,779.4,103.9,QWVU01000106.1,6121,7418,Rhodopseudomonas palustris strain R1 NODE_1 
+2.4e-232,778.0,92.9,Ga0065463_11,4704881,4706177,
+5.4e-232,776.8,100.9,LCZM01000305.1,4699,5998,Rhodopseudomonas palustris strain 42OL cont 
+2.3e-231,774.7,104.4,ENA|ADFI01000008|ADFI01000008.1,57223,55924,"Rhodopseudomonas palustris DX-1 ctg00040, w "
+6.9e-200,670.6,50.7,CP036498.1,4503811,4502508,"Rhodopseudomonas sp. SK50-23 chromosome, co "
+4e-199,668.1,71.4,CP036498.1,2159202,2157902,"Rhodopseudomonas sp. SK50-23 chromosome, co "
+3.3e-161,542.7,22.0,Ga0065463_11,1275254,1276538,
+8.4e-83,283.4,90.7,Ga0065463_11,3915286,3916523,
+2.1e-35,126.6,19.8,QUML01000003.1,125114,124818,Rhodopseudomonas sp. BR0G17 NODE_3_length_2 
+1.1e-30,111.0,78.9,JACRJB010000067.1,175250,174100,MAG: Rhodopseudomonas palustris isolate NC_ 
+1.9e-24,90.4,32.6,NZ_FODT01000007.1,149893,150933,Rhodopseudomonas pseudopalustris strain DSM 
+2.8e-16,63.4,15.0,NZ_QJTI01000018.1,12835,11568,Rhodopseudomonas faecalis strain JCM 11668 
+6e-08,35.8,8.7,CP036498.1,2124713,2125681,"Rhodopseudomonas sp. SK50-23 chromosome, co "
+2.5e-07,33.8,25.9,CP000250.1,1750591,1751554,"Rhodopseudomonas palustris HaA2, complete g "
+4.7e-06,29.6,4.8,fiG|6666666.91855.peG.3600,72,2,
+0.0057,19.4,57.7,QUML01000003.1,146431,145368,Rhodopseudomonas sp. BR0G17 NODE_3_length_2 
+0.024,17.3,19.5,Ga0065463_11,1698475,1698655,
+0.058,16.0,19.2,BADD01000202.1,2052,2487,"Rhodopseudomonas sp. B29 DNA, contig: IB029 "
+0.096,15.3,15.8,CP036498.1,4996354,4996863,"Rhodopseudomonas sp. SK50-23 chromosome, co "
+0.1,15.2,13.5,QYYD01000030.1,1713,1969,Rhodopseudomonas palustris strain 2.1.18 NO 
+0.16,14.6,41.3,BADD01000456.1,38980,39534,"Rhodopseudomonas sp. B29 DNA, contig: IB029 "
+0.45,13.1,9.1,CP036498.1,4286664,4286941,"Rhodopseudomonas sp. SK50-23 chromosome, co "
+0.65,12.6,7.5,Ga0065639_11,3395082,3394965,
+1.3,11.6,22.9,NZ_JACHIH010000002.1,48385,48890,Rhodopseudomonas rhenobacensis strain DSM 1 
+1.6,11.3,0.8,QKQS01000003.1,13882,13716,Rhodopseudomonas palustris strain XCP PROK_ 
+2.1,10.9,9.9,JXXE01000419.1,3748,3586,Rhodopseudomonas palustris strain BAL398 c4 
+2.2,10.8,24.4,Ga0065639_11,2507162,2506710,
+2.7,10.5,13.7,KI632513.1,3642999,3643184,Rhodopseudomonas palustris JSC-3b genomic s 
+3.2,10.3,10.0,JXXE01000328.1,24575,24329,Rhodopseudomonas palustris strain BAL398 c3 
+4.7,9.7,24.6,fiG|6666666.91855.peG.3140,781,1110,
+4.7,9.7,6.9,JACRJB010000019.1,60996,61129,MAG: Rhodopseudomonas palustris isolate NC_ 
+6.7,9.2,8.7,KI632513.1,481123,480982,Rhodopseudomonas palustris JSC-3b genomic s 
+6.7,9.2,8.7,NZ_QJTI01000018.1,37806,37947,Rhodopseudomonas faecalis strain JCM 11668 
+6.8,9.2,17.1,CP001096.1,133149,133542,Rhodopseudomonas palustris TIE-1 chromosome 
+7,9.2,7.3,JACABA010000003.1,213389,213513,MAG: Rhodopseudomonas sp. isolate Cfx3-05 M 
+7.5,9.1,11.4,Ga0065639_11,4261202,4261043,
+8,9.0,3.6,BADD01000276.1,16599,16491,"Rhodopseudomonas sp. B29 DNA, contig: IB029 "
+8.3,8.9,10.2,ENA|ADFI01000019|ADFI01000019.1,73706,73974,"Rhodopseudomonas palustris DX-1 ctg00038, w "
+9.1,8.8,31.1,BADD01000318.1,15885,15378,"Rhodopseudomonas sp. B29 DNA, contig: IB029 "
+9.6,8.7,7.1,NZ_FODT01000012.1,56503,56369,Rhodopseudomonas pseudopalustris strain DSM

@@ -1,0 +1,1 @@
+perl compare_clusters.pl -d faa_homologues/prokkaRhodopseudomonaspalustrisJSC-3b_f0_0taxa_algCOG_Pfam_e1_C70_,faa_homologues/prokkaRhodopseudomonaspalustrisJSC-3b_f0_0taxa_algOMCL_Pfam_e1_C70_ -o intersect_pan -t 0 -m -T &> log.comp_clusters_intersect_pan_CM 

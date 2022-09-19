@@ -34,5 +34,5 @@ g.ax_heatmap.set_xticklabels([customize_name(ticklabel.get_text())
 
 #Guardamos la imagen generada.
 fig = g.fig
-fig.savefig("ANI_Tree.pdf", format="pdf") 
+fig.savefig("ANI_Tree.png", format="png") 
 

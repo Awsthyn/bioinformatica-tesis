@@ -1,0 +1,42 @@
+Genome Name	Coarse consistency (%)	Fine consistency (%)	Completeness (%)	Contamination (%)	Eliminado por
+Rhodopseudomonas sp. GJ-22	99.2	97.7	100	0	
+Rhodopseudomonas sp. B29	97.8	90.3	98.9	8.1	
+Rhodopseudomonas sp. BisB18	99.9	99.4	100	1.1	
+Rhodopseudomonas rhenobacensis DSM 12706	99.2	97.8	100	0	
+Rhodopseudomonas sp. BAL398	98.5	92.4	99.5	4	
+Rhodopseudomonas sp. ATH 2.1.18	98.5	95.9	100	0.7	
+Rhodopseudomonas sp. BR0M22	99.7	97.1	100	1.1	
+Rhodopseudomonas sp. AZUL	99.1	96.2	100	0.9	
+Rhodopseudomonas sp. XCP	98.7	97.3	100	0.5	
+Rhodopseudomonas sp. RI 341	94.1	92.3	96.1	2.4	ANI muy bajo
+Rhodopseudomonas thermotolerans JA576	98.7	97.5	100	0	ANI 100% = a JA575
+Rhodopseudomonas sp. Cfx3-05	98.7	96.5	99.8	0.9	
+Rhodopseudomonas sp. 42OL	99.2	97.4	100	0.7	
+Rhodopseudomonas palustris BisB5	98.8	97.3	100	0.2	
+Rhodopseudomonas sp. NC1818	98.7	96.2	99.8	0.5	
+Rhodopseudomonas sp. RCB100	99.7	99.3	100	0	ANI 100% = a CGA009
+Rhodopseudomonas rutila TIE-1	99.6	98.5	100	0	
+Rhodopseudomonas rutila CGA009	99.7	99.3	100	0	
+Rhodopseudomonas palustris DSM 123 T	98.9	96.9	100	0.2	
+Rhodopseudomonas sp. BR0C11	99.4	91.1	99.8	10.9	Contaminacion
+Rhodopseudomonas sp. AAP120	99.2	96.4	100	0.2	
+Rhodopseudomonas sp. BisA53	98.9	97.5	100	0.2	
+Rhodopseudomonas rutila DSM 126	99.4	97.8	99.8	0.7	
+Rhodopseudomonas faecalis PSBS	98.2	88.6	100	17.2	Contaminacion
+Rhodopseudomonas sp. HaA2	98.8	97.2	100	0.2	
+Rhodopseudomonas sp. WA056	99	95.4	100	3.8	
+Rhodopseudomonas rutila YSC3	99.6	98.6	100	0.5	
+Rhodopseudomonas rutila R1 T	99.6	98.8	100	0.5	
+Rhodopseudomonas sp. ATH 2.1.37	99.6	99	99.8	0	
+Rhodopseudomonas sp. CGMCC 1.2180	99.6	99	100	0.2	
+Rhodopseudomonas sp. BR0G17	99.6	97.2	100	2	
+Rhodopseudomonas rutila PS3	99.6	98.2	100	0.2	
+Rhodopseudomonas rutila ELI 1980	99.6	98	100	1.4	ANI 100% = a CGA009
+Rhodopseudomonas palustris 4810	98.4	90.2	100	10.3	Contaminacion
+Rhodopseudomonas faecalis JCM 11668 T	99	98.5	100	0.2	
+Rhodopseudomonas sp. SK50-23	98.2	94.8	99.1	2.3	
+Rhodopseudomonas pentothenatexigens JA575 T	98.7	97.5	100	0	
+Rhodopseudomonas sp. DX-1	99.3	97.6	100	0.2	
+Rhodopseudomonas faecalis JSC-3b	99	98.3	100	0.2	
+					
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484387/					
